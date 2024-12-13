@@ -148,11 +148,11 @@
     			{squarespace.main-content}
           </div>
 
-          {.equal? collection.typeName "index"}{.or}
+          
           <footer class="site-footer">
             <squarespace:block-field id="footer-blocks" columns="12" label="Footer Content" />
           </footer>
-          {.end}
+          
     		</div>
       </div>
     </div>
